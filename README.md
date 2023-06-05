@@ -1,4 +1,4 @@
-# 💫 About Me
+# 🧑‍🎓 About Me
 
 📃 Hi! i'm a Sapienza University of Rome Student currently graduating in Computer Science!
 ## 🌐 Socials
@@ -10,7 +10,7 @@
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/357948)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/FedVlogger)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/fedvlogger17)
-# 💻 Tech Stack
+# 🧑‍💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
