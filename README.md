@@ -19,11 +19,10 @@
 
 # 🚩 Capture the Flag
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/FedVlogger)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/FeddyLix17)
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/357948)
 
-![](https://tryhackme-badges.s3.amazonaws.com/FedVlogger.png)
-![](https://www.hackthebox.eu/badge/image/357948)
+![](https://tryhackme-badges.s3.amazonaws.com/FeddyLix17.png)
 
 # 📊 GitHub Stats
 
